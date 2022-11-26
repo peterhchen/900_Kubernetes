@@ -1,0 +1,3 @@
+swapoff -a
+# vi /etc/fatab
+# comment out swap space

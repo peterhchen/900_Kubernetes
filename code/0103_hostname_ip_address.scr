@@ -1,0 +1,6 @@
+# vi /etc/hostname
+# ifconfig > ifconfig.txt
+# Check inet 192.168.1.8 for ip address in the wlpxxxx section.
+# vi /etc/netplan
+# sudo netplan apply /etc/netplan/kmaster.ymal
+# vi /etc/hosts
